@@ -62,7 +62,7 @@ if inputdata>=1 and inputdata<=4:
 		++count
 	print(ans)
 	print('\n')
-	print(CORRECT_ANS_1)
+	print('\n'.join(['\t'.join([str(cell) for cell in row])for row in CORRECT_ANS_1]))
 
 
 elif inputdata>=5 and inputdata<=8:
@@ -91,7 +91,7 @@ elif inputdata>=5 and inputdata<=8:
 		++count
 	print(ans)
 	print('\n')
-	print(CORRECT_ANS_2)
+	print('\n'.join(['\t'.join([str(cell) for cell in row])for row in CORRECT_ANS_2]))
 
 
 elif inputdata>=9 and inputdata<=12:
@@ -120,7 +120,7 @@ elif inputdata>=9 and inputdata<=12:
 		++count
 	print(ans)
 	print('\n')
-	print(CORRECT_ANS_3)
+	print('\n'.join(['\t'.join([str(cell) for cell in row])for row in CORRECT_ANS_3]))
 
 
 elif inputdata>=13 and inputdata<=16:
@@ -149,4 +149,4 @@ elif inputdata>=13 and inputdata<=16:
 		++count
 	print(ans)
 	print('\n')
-	print(CORRECT_ANS_4)
+	print('\n'.join(['\t'.join([str(cell) for cell in row])for row in CORRECT_ANS_4]))
