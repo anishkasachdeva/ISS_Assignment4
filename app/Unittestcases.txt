@@ -1,0 +1,127 @@
+*If word selected from the dropdown is : "बच्चा","लड़का","घोड़ा","गधा"
+
+//first one
+Add dropdown 1= "आओं", Delete Dropdown 1= "आ"                   =InCorrect
+Add dropdown 2= "आ", Delete Dropdown 2= "आ"                     =Incorrect
+Add dropdown 3= "आ", Delete Dropdown 3= "ओं"                     =Incorrect
+Add dropdown 4= "आ", Delete Dropdown 4= "ई"                      =Incorrect
+
+//second one
+Add dropdown 1= "आ", Delete Dropdown 1= "आ"                     =Correct
+Add dropdown 2= "आ", Delete Dropdown 2= "ए"                      =correct
+Add dropdown 3= "आ", Delete Dropdown 3= "ए"                      =correct
+Add dropdown 4= "आ", Delete Dropdown 4= "ओं"                     =correct
+
+//third one
+Add dropdown 1= "ए", Delete Dropdown 1= "आ"                      =InCorrect
+Add dropdown 2= "आ", Delete Dropdown 2= "ए"                      =correct
+Add dropdown 3= "आ", Delete Dropdown 3= "आ"                     =Incorrect
+Add dropdown 4= "आ", Delete Dropdown 4= "ओं"                     =correct
+
+//fourth one
+Add dropdown 1= "आ", Delete Dropdown 1= "आ"                     =Correct
+Add dropdown 2= "आ", Delete Dropdown 2= "ई"                      =Incorrect
+Add dropdown 3= "आ", Delete Dropdown 3= "इयों"                    =correct
+Add dropdown 4= "आ", Delete Dropdown 4= "इयाँ"                    =Incorrect
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*If word selected from the dropdown is : "बच्ची","लड़की","नदी","गली"
+
+//first one
+Add dropdown 1= "आओं", Delete Dropdown 1= "ई"                     =InCorrect
+Add dropdown 2= "ई", Delete Dropdown 2= "इयों"                     =Incorrect
+Add dropdown 3= "आ", Delete Dropdown 3= "इयों"                     =Incorrect
+Add dropdown 4= "ई", Delete Dropdown 4= "ई"                     =Incorrect
+
+//second one
+Add dropdown 1= "ई", Delete Dropdown 1= "ई"                     =Correct
+Add dropdown 2= "ई", Delete Dropdown 2= "इयाँ"                    =correct
+Add dropdown 3= "ई", Delete Dropdown 3= "ई"                     =correct
+Add dropdown 4= "ई", Delete Dropdown 4= "इयों"                     =correct
+
+//third one
+Add dropdown 1= "ई", Delete Dropdown 1= "आ"                     =InCorrect
+Add dropdown 2= "ई", Delete Dropdown 2= "इयाँ"                    =correct
+Add dropdown 3= "ई", Delete Dropdown 3= "आ"                     =Incorrect
+Add dropdown 4= "ई", Delete Dropdown 4= "इयों"                     =correct
+
+//fourth one
+Add dropdown 1= "ई", Delete Dropdown 1= "ई"                     =Correct
+Add dropdown 2= "आ", Delete Dropdown 2= "ई"                    =Incorrect
+Add dropdown 3= "ई", Delete Dropdown 3= "ई"                     =correct
+Add dropdown 4= "आ", Delete Dropdown 4= "इयाँ"                     =Incorrect
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*If word selected from the dropdown is : "माला","लता","शाखा","गाथा"
+
+//first one
+Add dropdown 1= "आओं", Delete Dropdown 1= "ओं"                     =InCorrect
+Add dropdown 2= "आ", Delete Dropdown 2= "आ"                     =Incorrect
+Add dropdown 3= "आ", Delete Dropdown 3= "ओं"                     =Incorrect
+Add dropdown 4= "आ", Delete Dropdown 4= "ई"                     =Incorrect
+
+//second one
+Add dropdown 1= "आ", Delete Dropdown 1= "आ"                     =Correct
+Add dropdown 2= "आ", Delete Dropdown 2= "आयें"                    =correct
+Add dropdown 3= "आ", Delete Dropdown 3= "ए"                     =correct
+Add dropdown 4= "आ", Delete Dropdown 4= "आ"                     =correct
+
+//third one
+Add dropdown 1= "ए", Delete Dropdown 1= "आ"                     =InCorrect
+Add dropdown 2= "आ", Delete Dropdown 2= "आयें"                    =correct
+Add dropdown 3= "आ", Delete Dropdown 3= "आ"                     =Incorrect
+Add dropdown 4= "आ", Delete Dropdown 4= "आ"                     =correct
+
+//fourth one
+Add dropdown 1= "आ", Delete Dropdown 1= "आ"                     =Correct
+Add dropdown 2= "आ", Delete Dropdown 2= "आओं"                    =Incorrect
+Add dropdown 3= "आ", Delete Dropdown 3= "ए"                     =correct
+Add dropdown 4= "आ", Delete Dropdown 4= "इयाँ"                     =Incorrect
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+*If word selected from the dropdown is : "माली","जोहरी","कूली","आदमी"
+
+//first one
+Add dropdown 1= "ई", Delete Dropdown 1= "ए"                     =InCorrect
+Add dropdown 2= "ई", Delete Dropdown 2= "इयों"                     =Incorrect
+Add dropdown 3= "आ", Delete Dropdown 3= "इयों"                     =Incorrect
+Add dropdown 4= "ई", Delete Dropdown 4= "ई"                     =Incorrect
+
+//second one
+Add dropdown 1= "ई", Delete Dropdown 1= "ई"                     =Correct
+Add dropdown 2= "ई", Delete Dropdown 2= "ई"                    =correct
+Add dropdown 3= "ई", Delete Dropdown 3= "ई"                     =correct
+Add dropdown 4= "ई", Delete Dropdown 4= "इयों"                     =correct
+
+//third one
+Add dropdown 1= "ई", Delete Dropdown 1= "आ"                     =InCorrect
+Add dropdown 2= "ई", Delete Dropdown 2= "ई"                    =correct
+Add dropdown 3= "ई", Delete Dropdown 3= "इयों"                     =Incorrect
+Add dropdown 4= "ई", Delete Dropdown 4= "इयों"                     =correct
+
+//fourth one
+Add dropdown 1= "ई", Delete Dropdown 1= "ई"                     =Correct
+Add dropdown 2= "आ", Delete Dropdown 2= "ई"                    =Incorrect
+Add dropdown 3= "ई", Delete Dropdown 3= "ई"                     =correct
+Add dropdown 4= "आ", Delete Dropdown 4= "इयाँ"                     =Incorrect
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
